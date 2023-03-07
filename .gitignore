@@ -49,3 +49,6 @@ eagle.epf
 
 # file locks introduced since 7.x
 *.lck
+nanobeam_soil_sensor.sch2
+board.dxf
+*.brd2
